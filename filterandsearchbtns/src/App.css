@@ -1,0 +1,27 @@
+
+.controls{
+  display: flex;
+  max-height: 2rem;
+  justify-content: end;
+
+}
+
+
+.app {
+  display: flex;
+  /* justify-content: center; */
+  padding: 2rem;
+  /* background-color: lightblue; */
+  /* height: auto; */
+}
+
+.course-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: flex-start;  
+}
+
+
+
+
